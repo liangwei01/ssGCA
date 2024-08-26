@@ -1,4 +1,10 @@
-# SetPA (Sample specific entropy and topological score of Pathways)
+# Sample specific weighted gene co-expression analysis for treatment outcome prediction in patients with metastatic clear cell renal cell carcinoma
+
+## Abstract
+Immunotherapies based on checkpoint blockade have recently become the standard of care for the treatment of metastatic clear cell renal cell carcinoma, the most prevalent subtype of kidney cancer. Although genomic alterations and immune microenvironments have been characterized in terms of their relationship with treatment response, gene network features remain absent in elucidating the driver and resistance to these therapies. We used transcriptomics data to conduct sample-specific weighted gene coexpression network inference and to explore the heterogeneity of patient clinical outcomes based on network features and biological pathway topology. Our results showed that network distance, adjusted with prior clinical knowledge, could measure the association of patients with treatment outcomes. Furthermore, higher gene connectivity and negative gene-gene associations were found to be related to poor prognosis and cancer recurrence post-therapy. In addition, entropy and topology scores calculated for biological pathways enabled the identification of the perturbed molecular processes associated with treatment responses that were not directly detected by gene expression changes. Overall, our sample-specific gene network analysis provides a comprehensive view on the capacity of network features for the stratification of cancer patients in the context of survival studies and prediction of response to treatment.
+
+
+## SetPA (Sample specific entropy and topological score of Pathways)
 
 Sample specific entropy and topological scores for biological pathways
 
