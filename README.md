@@ -19,7 +19,7 @@ The packages are needed for the calculation:
 - Igraph
 - Scipy
 
-#Basic Usage
+#Basic Usage for sample specific pathway network scores
 
 Step1:
 ```
